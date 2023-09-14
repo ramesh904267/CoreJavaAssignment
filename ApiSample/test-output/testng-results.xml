@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4410" started-at="2023-07-25T11:48:48Z" finished-at="2023-07-25T11:48:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4410" started-at="2023-07-25T11:48:48Z" finished-at="2023-07-25T11:48:52Z">
+      <class name="org.ram.SampleTestngApi">
+        <test-method status="PASS" signature="getRequest()[pri:0, instance:org.ram.SampleTestngApi@3b07a0d6]" name="getRequest" duration-ms="4382" started-at="2023-07-25T11:48:48Z" finished-at="2023-07-25T11:48:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest -->
+      </class> <!-- org.ram.SampleTestngApi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
